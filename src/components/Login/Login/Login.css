@@ -1,0 +1,8 @@
+.container-style{
+    
+    border: 1px solid gray; 
+    height: 300px;
+    margin-top: 60px;
+    border-radius:15px;
+    max-width: 500px;
+}
